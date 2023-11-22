@@ -1,6 +1,8 @@
+# AI-CHATBOT
+
 Welcome to my AI Chatbot project repository! This project was an exciting part of my coursework where I ventured into the world of conversational AI using Python. I developed this chatbot in Jupyter Labs, leveraging powerful libraries like NLTK and NumPy.
 
-Key Features of the Project:
+## Key Features of the Project:
 
 Chatbot Framework: I built the chatbot from scratch using Python, focusing on natural language processing to enable it to understand and respond to user queries effectively.
 
@@ -16,7 +18,7 @@ Big O Notation in Optimisation: I employed Big O Notation to analyse and refine 
 
 Practical Application of ReLU Layers: The use of ReLU layers in the neural network was critical. By understanding their computational complexity and applying Big O notation, I was able to make informed decisions to optimise these layers for better performance.
 
-Closing Thoughts:
+## Closing Thoughts:
 
 This project was a comprehensive journey through AI chatbot development, combining theoretical research with practical application. The process not only enhanced my technical skills but also gave me valuable insights into the intricacies of AI and natural language processing.
 
